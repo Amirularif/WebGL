@@ -1,0 +1,8 @@
+The important files are 
+1.WebGLDraw.js where the functions are
+2.draw-a-point.html to run the file
+
+EXTRA FILES are also needed to run the html files (make sure these files are also in the same folder in Visual Studio Code Project with the two files stated above)
+3.cuon-utils
+4.webgl-debug
+5.webgl-utils
