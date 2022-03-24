@@ -8,4 +8,4 @@ EXTRA FILES are also needed to run the html file (make sure these files are also
 5.webgl-utils
 
 For this practice, I made the colour of the canvas light blue and the point red. you can change the colours in the WebGLDraw.js file.
-Check the screenshots for the execution result
+Check the screenshot file for the result
